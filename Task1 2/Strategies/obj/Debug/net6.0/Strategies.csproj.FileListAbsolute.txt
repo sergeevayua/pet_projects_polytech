@@ -1,0 +1,24 @@
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\bin\Debug\net6.0\Strategies.deps.json
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\bin\Debug\net6.0\Strategies.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\bin\Debug\net6.0\Strategies.pdb
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\Strategies.csproj.AssemblyReference.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\Strategies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\Strategies.AssemblyInfoInputs.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\Strategies.AssemblyInfo.cs
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\Strategies.csproj.CoreCompileInputs.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\Strategies.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\refint\Strategies.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\Strategies.pdb
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Strategies\obj\Debug\net6.0\ref\Strategies.dll
+C:\Users\пк\Downloads\Task1\Strategies\bin\Debug\net6.0\Strategies.deps.json
+C:\Users\пк\Downloads\Task1\Strategies\bin\Debug\net6.0\Strategies.dll
+C:\Users\пк\Downloads\Task1\Strategies\bin\Debug\net6.0\Strategies.pdb
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\Strategies.csproj.AssemblyReference.cache
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\Strategies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\Strategies.AssemblyInfoInputs.cache
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\Strategies.AssemblyInfo.cs
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\Strategies.csproj.CoreCompileInputs.cache
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\Strategies.dll
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\refint\Strategies.dll
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\Strategies.pdb
+C:\Users\пк\Downloads\Task1\Strategies\obj\Debug\net6.0\ref\Strategies.dll

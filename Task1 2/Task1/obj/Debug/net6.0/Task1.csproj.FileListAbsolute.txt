@@ -1,0 +1,36 @@
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\bin\Debug\net6.0\Task1.exe
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\bin\Debug\net6.0\Task1.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\bin\Debug\net6.0\Task1.pdb
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\bin\Debug\net6.0\Strategies.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\bin\Debug\net6.0\Strategies.pdb
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.csproj.CopyComplete
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.pdb
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task1\Task1\obj\Debug\net6.0\ref\Task1.dll
+C:\Users\пк\Downloads\Task1\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\пк\Downloads\Task1\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\пк\Downloads\Task1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\пк\Downloads\Task1\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\пк\Downloads\Task1\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\пк\Downloads\Task1\Task1\bin\Debug\net6.0\Strategies.dll
+C:\Users\пк\Downloads\Task1\Task1\bin\Debug\net6.0\Strategies.pdb
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.csproj.CopyComplete
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\пк\Downloads\Task1\Task1\obj\Debug\net6.0\ref\Task1.dll
