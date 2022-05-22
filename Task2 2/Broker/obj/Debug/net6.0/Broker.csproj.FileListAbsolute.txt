@@ -1,0 +1,24 @@
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\bin\Debug\net6.0\Broker.deps.json
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\bin\Debug\net6.0\Broker.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\bin\Debug\net6.0\Broker.pdb
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\Broker.csproj.AssemblyReference.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\Broker.AssemblyInfoInputs.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\Broker.AssemblyInfo.cs
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\Broker.csproj.CoreCompileInputs.cache
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\Broker.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\refint\Broker.dll
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\Broker.pdb
+D:\Диана(2)\Университет\6 семестр\ОПД\Индивидуальные задания\Task2\Broker\obj\Debug\net6.0\ref\Broker.dll
+C:\Users\пк\Downloads\Task2\Broker\bin\Debug\net6.0\Broker.deps.json
+C:\Users\пк\Downloads\Task2\Broker\bin\Debug\net6.0\Broker.dll
+C:\Users\пк\Downloads\Task2\Broker\bin\Debug\net6.0\Broker.pdb
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\Broker.csproj.AssemblyReference.cache
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\Broker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\Broker.AssemblyInfoInputs.cache
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\Broker.AssemblyInfo.cs
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\Broker.csproj.CoreCompileInputs.cache
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\Broker.dll
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\refint\Broker.dll
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\Broker.pdb
+C:\Users\пк\Downloads\Task2\Broker\obj\Debug\net6.0\ref\Broker.dll
